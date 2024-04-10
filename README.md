@@ -1,9 +1,9 @@
 # TengriNewCloneProject
 
 Установка и запуск
-git clone https://github.com/Omargali/TengriNewCloneProject.git
-pip install -r requirements.txt.
-python manage.py runserver
+1.git clone https://github.com/Omargali/TengriNewCloneProject.git
+2.pip install -r requirements.txt.
+3.python manage.py runserver
 
 Функциональность
 Главная страница: Отображает последние новости, статьи.
